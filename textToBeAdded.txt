@@ -1,0 +1,5 @@
+I would like to add something to this text file.
+--> Hope there will be some more information after execution of my server-code.
+ 
+--> This must be added every time someone runs this code. 
+--> This must be added every time someone runs this code. 
